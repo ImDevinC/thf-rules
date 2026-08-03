@@ -6,6 +6,7 @@ edit_uri: ""
 
 theme:
   name: material
+  custom_dir: overrides
   features:
     - navigation.sections
     - navigation.expand
@@ -85,3 +86,6 @@ nav:
       - Species: legal-books/species.md
       - Backgrounds: legal-books/backgrounds.md
   - Guide Decisions: guide-decisions.md
+
+extra:
+  discord_url: https://discord.gg/mKNnSQNEwQ
