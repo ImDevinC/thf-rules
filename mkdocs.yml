@@ -1,0 +1,84 @@
+site_name: The Hungry Frontier
+site_url: https://thehungryfrontier.com
+site_description: Rules and Mechanics of the Hungry Frontier, a west march D&D 5e / 5.5e campaign.
+#repo_url: https://thehungryfrontier.com
+edit_uri: ""
+
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
+    - toc.follow
+    - content.code.copy
+    - content.tooltips
+  palette:
+    - scheme: slate
+      primary: deep orange
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: default
+      primary: deep orange
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  font:
+    text: Roboto
+    code: Roboto Mono
+  icon:
+    logo: material/castle
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.snippets
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+
+nav:
+  - Home: index.md
+  - Changelog: changelog.md
+  - Game Rules: game-rules.md
+  - Campaign Rules:
+      - campaign-rules/index.md
+      - 1. Experience Ladder & Level Cap: campaign-rules/experience-ladder.md
+      - 2. Character Death & Retirement: campaign-rules/character-death.md
+      - 3. Store Coins / Gift Cards: campaign-rules/store-coins.md
+      - 4. Minor Mechanic Changes: campaign-rules/minor-mechanics.md
+      - 5. Sidekicking: campaign-rules/sidekicking.md
+      - 6. Long & Short Rests: campaign-rules/rests.md
+      - 7. Removal of Flanking: campaign-rules/flanking.md
+      - 8. Banned Spells List: campaign-rules/banned-spells.md
+      - 9. Waiver of Session XP: campaign-rules/xp-waiver.md
+      - 10. Downtime Activities: campaign-rules/downtime.md
+  - Character Creation Rules:
+      - character-creation/index.md
+      - 5e to 5.5e Transition: character-creation/transition.md
+      - Character Respec: character-creation/respec.md
+  - Frontier Legal Books:
+      - legal-books/index.md
+      - Classes & Subclasses: legal-books/classes.md
+      - Species: legal-books/species.md
+      - Backgrounds: legal-books/backgrounds.md
+  - Guide Decisions: guide-decisions.md
