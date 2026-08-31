@@ -13,3 +13,7 @@ Any establishment of House/Table Rules, changes to the codified Official game ru
 Any changes to the document will be made on a new line and have the date of the change saved at the end of the change, with any obsolete info being struck out, not deleted.
 
 We reserve the rights to change these rules whenever.
+
+## Useful Resources
+
+- :material-calendar: [Selardor Calendar](https://app.fantasy-calendar.com/calendars/25539af7a6eb35f09dd5b9643c93bb76)
