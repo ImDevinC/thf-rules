@@ -46,3 +46,12 @@ Rules as Written this means that if you have access to a "Free Use" of a spell i
 
 !!! tip "When in doubt"
     See if the feature says **"You can cast it once without a spell slot…"**.
+
+## Familiars and Companions Using Magic Items — 10/15/2026
+
+Any creature can attune to a magic item if it meets that item's physical requirements (for example, a head to wear a headband, a finger to wear a ring, or a hand to wield a weapon).
+
+A creature may wear or wield an item if it meets the physical requirements. If the item requires attunement, it uses one of its PC owner's attunement slots.
+
+!!! note "Pets"
+    A pet provides roleplay only and has no mechanical benefit. It stops being a pet if it gains a mechanical benefit.

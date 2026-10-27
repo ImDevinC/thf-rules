@@ -105,8 +105,38 @@ A character who has proficiency with the Herbalism Kit can create a Potion of He
 
 If a magic item incorporates an item that has a purchase cost (such as a weapon or a suit of armor), you must also pay that entire cost or craft that item using the rules in the Player's Handbook. For example, to make +1 Armor (Plate Armor), you must pay 3,500 GP or pay 2,000 GP and craft the armor.
 
+### Evolving Magic Items
+
+*Arcana Unleashed, Chapter 5 — Magic Items*
+
+To evolve a magic item, pay the difference in time and cost between crafting an item at its new rarity and its previous rarity.
+
+For example, evolving an Uncommon item (10 days and 200 GP) into a Rare item (50 days and 2,000 GP) takes **40 days** and **1,800 GP** in raw materials.
+
+!!! warning "Limits on Evolving Items — 09/10/2026"
+    Only items from **Frontier Legal Books** with a clear progression (such as a +1 bonus becoming +2) can evolve. All other crafting rules still apply.
+
+    If you crafted the item, it counts as the Project Source for its evolution.
+
 !!! warning "Guide's Discretion — 05/26/2026"
     Currently only magic items from **Frontier Legal Books** may be crafted, at Guide's Discretion.
+
+### Crafting Errata
+
+!!! info "Crafting with an Assistant — 07/09/2026"
+    - The primary crafter and assistant must each spend the discounted number of days. This applies to mundane and magical crafting.
+    - PCs owned by the same player cannot assist each other with crafting.
+
+!!! info "Commissioning Another PC — 07/09/2026"
+    When one PC commissions another PC to craft a mundane or magical item, the commissioned PC spends the days. The primary PC pays all other costs and supplies all other resources.
+
+!!! info "Project Sources — 07/09/2026"
+    Players must provide a Project Source when they request any crafting, mundane or magical.
+
+!!! info "Crafting Discounts — 10/15/2026"
+    A feature or effect used by a primary crafter or assistant only reduces the portion of the project that person works on. This includes Deryan's Helpful Homonculi and an Artificer's crafting subclass feature.
+
+    **Example:** A Battle Smith Artificer crafts a Rare magic weapon (50 days, 2,000 GP) with a Wizard assistant. They split the days in half, then each applies their own feature to their portion, halving 25 days to 13 days each. The Artificer spends 13 days and 2,000 GP. The Wizard spends 13 days and 1,300 GP.
 
 ---
 
