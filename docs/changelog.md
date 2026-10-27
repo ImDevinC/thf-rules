@@ -2,6 +2,25 @@
 
 A record of every change made to this document, newest first.
 
+## Update 10.15.2026
+
+- Clarified how crafting discounts apply when a PC works with an assistant.
+- Added a Guide ruling on familiars and companions using magic items.
+- Added inherited XP day rewards to the character death and retirement rules.
+
+## Update 09.10.2026
+
+- Added *Arcana Unleashed* and *One Grung Above* to Frontier Legal Books.
+- Added evolving magic items to Downtime Activities.
+- Updated inherited XP rewards and added starting equipment guidance for new PCs above level 1.
+- Added selected *Arcana Unleashed* subclasses and feats to Frontier Legal Options.
+- Added Kobold and Grung to Frontier Species, with unlock levels for species categories.
+- Added Feats of the Frontier.
+
+## Update 07.09.2026
+
+- Updated Downtime Activities rules for crafting with an assistant, commissioning another PC, and Project Sources.
+
 ## Update 06.29.2026
 
 - Added Casting Multiple Levelled Spells in one turn to Regarding 5e/5.5e compatibility.
@@ -39,4 +58,3 @@ A record of every change made to this document, newest first.
 A. The following Rules and Mechanics were codified into the Frontier, using the sourcebooks from WotC's Dungeons and Dragons 2014 (hereafter called **5e**) and WotC's Dungeons and Dragons 2024 (hereafter called **5.5e**).
 
 B. As of Monday, January 26, 2026 the Hungry Frontier will be using the general rules, equipment, spells, etc of Dungeons and Dragons 5.5 edition. If a rule or ability from 5e is missing or has not been rewritten then it, in most cases, may still be used.
-

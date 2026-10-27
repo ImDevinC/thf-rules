@@ -26,14 +26,18 @@ The following sourcebooks are legal for play in the Hungry Frontier. Use the abb
 | Dungeon Master's Guide                | DMG24        |
 | Forgotten Realms: Heroes of Faerun    | FRHoF        |
 | Ravenloft: Horrors Within             | RHW          |
+| Arcana Unleashed                       | AU           |
 | Dungeon and Dragons 5.5e Basic Rules  | —            |
 
 ## Partnered Content
 
-*—* *(none currently listed)*
+| Book            | Abbreviation |
+| --------------- | ------------ |
+| One Grung Above | OGA          |
 
 ## Sub-Sections
 
 - [Classes & Subclasses](classes.md)
 - [Species](species.md)
 - [Backgrounds](backgrounds.md)
+- [Feats](feats.md)

@@ -23,3 +23,8 @@ When a PC takes enough damage that it brings them passed 0 HP and their negative
 A player may choose to retire a player character at any time. That PC then either returns east or becomes an NPC in town, either path means that PC is no longer playable. They are considered to be happy, healthy, and mostly safe wherever they chose to settle.
 
 If a player chooses to retire a PC, they may make a new character at **50%** of the retired PC's session XP (rounded up). This is called **Inherited XP**.
+
+!!! info "Update — 09/10/2026"
+    A new PC that starts above level 1 may use the *Starting Equipment at Higher Levels* table in the *Player's Handbook (2024)*. Roll in the Roll Room or with a Guide as witness.
+
+    The new PC also gains **3 days for each Inherited XP** from a dead or retired PC.

@@ -22,8 +22,10 @@
 | Common Species   | Tiefling (PHB14, MToF)            | Tiefling (PHB24)              |
 | Common Species   | Kender (Dragonlance)              | ← Use 5e Kender               |
 | Common Species   | Dragonborn (FToD)\*\*             | Dragonborn (PHB24)            |
+| Common Species   | Kobold (MPMotM)                   | ← Use 5e Kobold               |
 | Uncommon Species | Satyr (MPMotM)                    | ← Use 5e Satyr                |
 | Uncommon Species | Tortle (MPMotM)                   | ← Use 5e Tortle               |
+| Rare Species     | Grung (OGA)                       | ← Use 5e Grung                |
 
 ^\*^ Only available to 5e Characters.
 ^\*\*^ Only Metallic or Chromatic options.
@@ -32,9 +34,11 @@
 
 **Default Species:** Found regularly throughout Selardor, with many coming to Merzileta from the East. These ancestries are usable by all players in the Frontier.
 
-**Common Species:** Found only on or near the western continent of Okeron. These ancestries have been unlocked through in-game negotiations and diplomacy. These ancestries are usable by all players in the Frontier.
+**Common Species:** Found only on or near the western continent of Okeron. These ancestries have been unlocked through in-game negotiations and diplomacy. They are usable by all players with a PC of **level 4 or higher**.
 
-**Uncommon Species:** Newly discovered species found only in Okeron or on other Planes. These ancestries can only be used after a player has completed a specific mission to aid their people.
+**Uncommon Species:** Newly discovered species found only in Okeron or on other Planes. They are usable after a player completes a specific mission to aid their people and has a PC of **level 6 or higher**.
+
+**Rare Species:** Newly discovered species that are hard to find on the Material Plane and may be native to other planes. They are usable after a party completes a series of expeditions to aid their people and the player has a PC of **level 9 or higher**.
 
 ## Regarding Custom Lineage and Human Variant
 

@@ -52,7 +52,7 @@
 | Order Domain          | TCoE            |
 | Peace Domain          | TCoE            |
 | Twilight Domain       | TCoE            |
-| Arcana Domain         | SCAG            |
+| Arcana Domain         | SCAG, AU        |
 | Death Domain          | DMG             |
 | Forge Domain          | XGtE            |
 | **Grave Domain**      | XGtE, RHW       |
@@ -80,7 +80,7 @@
 | **Psi Warrior**         | TCoE, PHB24     |
 | Rune Knight             | TCoE            |
 | Purple Dragon Knight    | SCAG            |
-| Arcane Archer           | XGtE            |
+| Arcane Archer           | XGtE, AU        |
 | Cavalier                | XGtE            |
 | Samurai                 | XGtE            |
 | **Banneret**            | FRHoF           |
@@ -100,6 +100,7 @@
 | Way of the Drunken Master                         | XGtE            |
 | Way of the Kensei                                 | XGtE            |
 | Way of the Sun Soul                               | XGtE            |
+| Way of the Mystic Arts                            | AU              |
 
 ## Paladin
 
@@ -172,19 +173,20 @@
 | **The Celestial (Celestial Patron)**    | XGtE, PHB24     |
 | The Hexblade                            | XGtE            |
 | **Undead Patron**                       | RHW             |
+| Vestige Patron                          | AU              |
 
 ## Wizard
 
 | Subclass                                  | Book            |
 | ----------------------------------------- | --------------- |
 | **School of Abjuration (Abjurer)**        | PHB14, PHB24    |
-| School of Conjuration                     | PHB14           |
+| School of Conjuration (Conjurer)          | PHB14, AU       |
 | **School of Divination (Diviner)**        | PHB14, PHB24    |
-| School of Enchantment                     | PHB14           |
+| School of Enchantment (Enchanter)          | PHB14, AU       |
 | **School of Evocation (Evoker)**          | PHB14, PHB24    |
 | **School of Illusion (Illusionist)**      | PHB14, PHB24    |
-| School of Necromancy                      | PHB14           |
-| School of Transmutation                   | PHB14           |
+| School of Necromancy (Necromancer)         | PHB14, AU       |
+| School of Transmutation (Transmuter)       | PHB14, AU       |
 | **Bladesinging**                          | TCoE, SCAG, FRHoF |
 | Order of the Scribes                      | TCoE            |
 | War Magic                                 | XGtE            |
